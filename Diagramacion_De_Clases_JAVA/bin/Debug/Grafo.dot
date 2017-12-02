@@ -1,0 +1,23 @@
+digraph G{
+fontname = "Bitstream Vera Sans" 
+fontsize = 9 
+node[
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+shape = "record"
+]
+edge [
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+] 
+carro[ label = "{carro| ~ string color\l~ string modelo\l~ int anio\l~ persona Duenio\l| }" ]
+hombre[ label = "{hombre| - int NoSeguro\l| - void cantar ()\l}" ]
+mujer[ label = "{mujer| ~ int NoMartenidad\l| ~ string Colocar_Nombre (string nombre_1,string nombre_2)\l}" ]
+persona[ label = "{persona| + string nombre\l+ int edad\l+ int correo\l- int nit\l- int dpi\l| + void saltar (int numero)\l+ int Edad ()\l- bool Casado (bool bandera)\l}" ]
+carro->persona
+ [dir=both arrowhead="vee" arrowtail="ediamond"]
+
+hombre->persona [dir=forward arrowhead="empty"]
+mujer->persona [dir=forward arrowhead="empty"]
+
+}

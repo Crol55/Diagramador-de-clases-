@@ -1,0 +1,24 @@
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Diagramacion_De_Clases_JAVA.exe.config
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Diagramacion_De_Clases_JAVA.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Diagramacion_De_Clases_JAVA.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Irony.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Irony.Interpreter.dll
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Irony.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\bin\Debug\Irony.Interpreter.pdb
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.csprojResolveAssemblyReference.cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.Form1.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.Properties.Resources.resources
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.csproj.GenerateResource.Cache
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.exe
+c:\users\carlo\onedrive\documentos\visual studio 2015\Projects\Diagramacion_De_Clases_JAVA\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.pdb
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\bin\Debug\Diagramacion_De_Clases_JAVA.exe.config
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.exe
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.pdb
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\bin\Debug\Diagramacion_De_Clases_JAVA.exe
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\bin\Debug\Diagramacion_De_Clases_JAVA.pdb
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\bin\Debug\Irony.pdb
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\bin\Debug\Irony.Interpreter.pdb
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.Form1.resources
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.Properties.Resources.resources
+C:\Users\carlo\Desktop\c1\[OLC1]Proyecto1_201314172\Diagramacion_De_Clases_JAVA\obj\Debug\Diagramacion_De_Clases_JAVA.csproj.GenerateResource.Cache

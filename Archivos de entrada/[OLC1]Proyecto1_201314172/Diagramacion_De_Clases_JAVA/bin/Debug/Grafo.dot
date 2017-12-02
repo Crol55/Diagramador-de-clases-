@@ -1,0 +1,35 @@
+digraph G{
+fontname = "Bitstream Vera Sans" 
+fontsize = 9 
+node[
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+shape = "record"
+]
+edge [
+fontname = "Bitstream Vera Sans"
+fontsize = 8
+] 
+Alumno[ label = "{Alumno| + int punteo\l+ Alumno siguiente\l+ Aplicacion aplicacion\l+ EnunciadoProyecto1 copiaEnunciado\l| +  Alumno (String nombre,int edad,double estatura,char sexo2,int carnet,int creditos,String correo)\l}" ]
+Auxiliar[ label = "{Auxiliar| + char seccion\l+ int cantidadAlumnos\l+ Alumno primerAlumno\l- EnunciadoProyecto1 enundiado\l| +  Auxiliar (String nombre,int edad,double estatura,char sexo2,int carnet,int creditos,String correo)\l+ void Calificar ()\l}" ]
+EnunciadoProyecto1[ label = "{EnunciadoProyecto1| + String texto\l+ int punteo\l# Fecha fechaEntrega\l| ~  EnunciadoProyecto1 (String texto,int punteo,Fecha fechaEntrega)\l}" ]
+Estudiante[ label = "{Estudiante| ~ int carnet\l+ int creditos\l+ String correo\l| +  Estudiante (String nombre,int edad,double estatura,char sexo2,int carnet,int creditos,String correo)\l+ boolean CalcularMayor (int edad)\l}" ]
+Fecha[ label = "{Fecha| ~ int dia\l~ int mes\l~ int anio\l| +  Fecha ()\l+  Fecha (int dia,int mes,int anio)\l}" ]
+Persona[ label = "{Persona| ~ String nombre\l+ int edad\l+ double estatura\l# char sexo\l- boolean mayorEdad\l| +  Persona (String nombre,int edad,double estatura,char sexo2)\l+ boolean CalcularMayor (int edad)\l+ boolean getMayorEdad ()\l}" ]
+Alumno->Estudiante [dir=forward arrowhead="empty"]Alumno->Alumno
+ [dir=both arrowhead="vee" arrowtail="ediamond"]
+Alumno->EnunciadoProyecto1
+ [dir=both arrowhead="vee" arrowtail="ediamond"]
+
+Auxiliar->Estudiante [dir=forward arrowhead="empty"]Auxiliar->Alumno
+ [dir=both arrowhead="vee" arrowtail="ediamond"]
+Auxiliar->EnunciadoProyecto1
+ [dir=both arrowhead="vee" arrowtail="ediamond"]
+
+EnunciadoProyecto1->Fecha
+ [dir=both arrowhead="vee" arrowtail="ediamond"]
+
+Estudiante->Persona [dir=forward arrowhead="empty"]
+
+
+}
